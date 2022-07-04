@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Mon, 04 Jul 2022 18:13:06 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ 459972da2470140f8a79b6973685a57f               29 Packages.gz
+ 09d183ed87fefcdc72d81c9e84daea56               38 Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ b5a823e390fb69d5bd2e47ed9b25c735d3e61e38               29 Packages.gz
+ b90a60e4d8aec11a943ef3043fefde77b7e7f420               38 Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ 1cb8fb4fd36f38eea0e707adb591c4ab60c44244cfe04a4e85e79f52d5ec8a1d               29 Packages.gz
+ 00edf3b7ba55b7af906d450b66a73dd4d48c2dd9d8d1d1c89966ca0912bc1924               38 Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 2959e66260f7a682922cc1ec209d103748bd62aa3a83581396daae241ed8ae0c28ee02c4417fe48f63a9eec543624ae61b8eadf2d273c5ba2d87a7e0bb29f8e1               29 Packages.gz
+ 9b30370c357d7a1287237f0cdf2a9e958df1571a583bf3a4bbbdaa75d50915f031cb2d08806afb7d3464e5bd5ee0644a5914411aedf1619e04616f1627635e3a               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJIBAEBCgAyFiEEp2++ZtaONdKKQZ/rsBuqARPsl20FAmLDLdoUHGFiY2Q1NjdA
+aG90bWFpbC5jb20ACgkQsBuqARPsl23QPhAAvzCCMwfKlPCpMitVVAyTvp3anryM
+aOcrKAxQFOIyK4fHnp3LeBQKnQPwXhrSBkm3SQWi24r8paSTyYawQf1EK/p8iQhC
+y6d7n/Zr9rxdBGNfAAiw0PTAkPUBlYKoUWRPV2kFIkBxbGeoerZdlCxv1Mor02zs
+gVg8q4CexlKm+E2Ro1rENz1SY7X2iqZtXJI7iIfPKzMmQ7honwnjO1eHsmUV7eSK
+v+eyhmaOqJq4YZiK9r37UNyM54LaSq7T6S3gLdLLM3LkwAtajwBgpXi5C7C1CIs2
+K9rNIi1TzlkU0/UxBoTV81kwFV6t6AbV1EYwHkThGTqU6OO1akrcfBDFBmdpex/X
+s1f+RNbkSR0M+J18D0s8uFjztXyBph/J2SCnmCQqjtk9gwmIH9F3IqyWttwvEh/b
+X15CzpwoPAiYSpic7tfduBs4vQD2X1yawCcVqd13X3ZRnPQv1G2zLxm7BfrEIYdO
+SJN6K25YYgEmMdbxW6lF95/by2f++Jkl9qNckRSqAm9CweU7m39imi2n3Hz3MURE
+4toYVA12HWIhXNs6PU4+6UEWL96DO+5Of4rZTAiEPg5GG5DOmD41ZP3yCpumDz5Q
+5WJSW7gl4mqhp8gc4uCjF9zckEJJChRNe7W25+CEW8ifbJdqz7aGfbwcbDcYoLd/
+RGWnZudn06BEdw4=
+=5ifi
+-----END PGP SIGNATURE-----
