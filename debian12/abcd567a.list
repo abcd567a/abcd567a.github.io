@@ -1,1 +1,1 @@
-deb [trusted=yes] https://raw.githubusercontent.com/abcd567a/debian/master ./
+deb https://raw.githubusercontent.com/abcd567a/debian12/master ./
