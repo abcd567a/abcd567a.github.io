@@ -1,1 +1,1 @@
-deb https://raw.githubusercontent.com/abcd567a/debian12/master ./
+deb [signed-by=/etc/apt/keyrings/abcd567a-key.gpg] https://raw.githubusercontent.com/abcd567a/debian12/master ./
