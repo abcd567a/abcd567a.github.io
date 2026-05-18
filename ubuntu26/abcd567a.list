@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/keyrings/abcd567a-key.gpg] https://raw.githubusercontent.com/abcd567a/ubuntu26/master ./
